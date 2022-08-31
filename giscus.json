@@ -1,10 +1,8 @@
 {
   "origins": [
     "https://inanseong.netlify.app/",
-    "http://localhost:8080/"
-  ],
-  "originsRegex": [
-    "http: //localhost:[0-9]+"
+    "http://localhost:8080/",
+    "http://192.168.0.109:8080/"
   ],
   "defaultCommentOrder": "newest"
 }
