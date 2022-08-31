@@ -1,6 +1,7 @@
 {
   "origins": [
-    "https://inanseong.netlify.app/"
+    "https://inanseong.netlify.app/",
+    "http://localhost:8080/"
   ],
   "originsRegex": [
     "http: //localhost:[0-9]+"
