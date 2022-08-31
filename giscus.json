@@ -1,7 +1,5 @@
 {
-  "origins": [
-    "https://inanseong.netlify.app/"
-  ],
+  "origins": [],
   "originsRegex": [],
   "defaultCommentOrder": "newest"
 }
