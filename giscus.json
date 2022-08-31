@@ -2,6 +2,8 @@
   "origins": [
     "https://inanseong.netlify.app/"
   ],
-  "originsRegex": [],
+  "originsRegex": [
+    "http: //localhost:[0-9]+"
+  ],
   "defaultCommentOrder": "newest"
 }
