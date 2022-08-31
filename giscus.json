@@ -1,8 +1,8 @@
 {
   "origins": [
-    "https://inanseong.netlify.app/",
-    "http://localhost:8080/",
-    "http://192.168.0.109:8080/"
+    // "https://inanseong.netlify.app/",
+    // "http://localhost:8080/",
+    // "http://192.168.0.109:8080/"
   ],
   "defaultCommentOrder": "newest"
 }
