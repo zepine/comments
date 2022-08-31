@@ -1,6 +1,6 @@
 {
   "origins": [
-    "https://inanseong.netlify.app/gardening/2022/"
+    "http://192.168.0.109:8080/gardening/pots/"
   ],
   "originsRegex": [],
   "defaultCommentOrder": "newest"
