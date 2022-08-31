@@ -3,7 +3,7 @@
     "https://inanseong.netlify.app/"
   ],
   "originsRegex": [
-    "http://localhost:8080/"
+    "http://localhost:8080/[0-9]{4}"
   ],
   "defaultCommentOrder": "newest"
 }
