@@ -1,3 +1,5 @@
-# comments-for-inanseong
+# <안성에 삽니다> 댓글 보관소
 
-나를 읽어줘(test)
+- <안성에 삽니다>는 [giscus](https://giscus.app) 댓글 시스템을 사용합니다.
+- <안성에 삽니다>에서 등록한 모든 댓글은 본 보관소(zepine/comments-for-inanseong)에 저장됩니다.
+- 본 보관소는 공개(public)돼 있으므로, GitHub 계정 소유자는 이곳에 등록된 *댓글을 읽거나, 새로 작성하거나, 본인의 댓글을 수정*할 수 있습니다.
