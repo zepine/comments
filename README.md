@@ -1,6 +1,6 @@
 # <양기리에 삽니다> 댓글 보관소
 
-- <양기리>은 [giscus](https://giscus.app) 댓글 서비스를 사용합니다.
+- <양기리>는 [giscus](https://giscus.app) 댓글 시스템을 이용합니다.
 - <양기리>에서 작성한 댓글은, [Discussions 탭](https://github.com/zepine/comments-for-inanseong/discussions)에서 확인하고 관리(수정, 삭제 등)할 수 있습니다.
 
 ## GitHub 로그인 시
