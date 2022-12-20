@@ -1,9 +1,9 @@
-# <양기리> 댓글 저장소
+# <양기 마을> 댓글 저장소
 
 > 주소: <https://github.com/zepine/comments.git>
 
-- <양기리>는 [giscus](https://giscus.app) 댓글 시스템을 이용합니다.
-- <양기리>에서 작성한 댓글은, [Discussions 탭](https://github.com/zepine/comments/discussions)에서 확인하고 관리(수정, 삭제 등)할 수 있습니다.
+- <양기 마을>는 [giscus](https://giscus.app) 댓글 시스템을 이용합니다.
+- <양기 마을>에서 작성한 댓글은, [Discussions 탭](https://github.com/zepine/comments/discussions)에서 확인하고 관리(수정, 삭제 등)할 수 있습니다.
 
 ## GitHub 로그인 시
 
